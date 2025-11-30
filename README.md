@@ -12,7 +12,6 @@ The project features a full end-to-end ML workflow including data cleaning, prep
 * **Imbalanced Data Handling:** Applied **SMOTE** (Synthetic Minority Oversampling Technique) to oversample the minority (default) class.
 * **Model Comparison:** Evaluated **Random Forest**, **XGBoost**, and **Logistic Regression** using 5-fold cross-validation.
 * **Model Optimization:** Performed **Grid Search + Threshold Tuning** to improve recall and F1-score on the minority class (default clients).
-* **Transparent Results:** All metrics are reported exactly as achieved—without hiding limitations.
 
 ---
 
